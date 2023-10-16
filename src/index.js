@@ -4,11 +4,14 @@ import './index.css';
 import './styles/tailwind.css';
 import Timeline from './timeline'; // Adjust the path based on your folder structure
 import reportWebVitals from './reportWebVitals';
+import { HashRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <HashRouter base="/Roadmap-Snake">
     <Timeline />
+    </HashRouter>
   </React.StrictMode>,
 );
 
