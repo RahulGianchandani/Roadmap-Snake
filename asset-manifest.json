@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/snake-roadmap/static/css/main.80ad693e.css",
-    "main.js": "/snake-roadmap/static/js/main.954c2855.js",
-    "static/js/787.7b605995.chunk.js": "/snake-roadmap/static/js/787.7b605995.chunk.js",
-    "index.html": "/snake-roadmap/index.html",
-    "main.80ad693e.css.map": "/snake-roadmap/static/css/main.80ad693e.css.map",
-    "main.954c2855.js.map": "/snake-roadmap/static/js/main.954c2855.js.map",
-    "787.7b605995.chunk.js.map": "/snake-roadmap/static/js/787.7b605995.chunk.js.map"
+    "main.css": "/Roadmap-Snake/static/css/main.80ad693e.css",
+    "main.js": "/Roadmap-Snake/static/js/main.a88b44a9.js",
+    "static/js/787.7b605995.chunk.js": "/Roadmap-Snake/static/js/787.7b605995.chunk.js",
+    "index.html": "/Roadmap-Snake/index.html",
+    "main.80ad693e.css.map": "/Roadmap-Snake/static/css/main.80ad693e.css.map",
+    "main.a88b44a9.js.map": "/Roadmap-Snake/static/js/main.a88b44a9.js.map",
+    "787.7b605995.chunk.js.map": "/Roadmap-Snake/static/js/787.7b605995.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ad693e.css",
-    "static/js/main.954c2855.js"
+    "static/js/main.a88b44a9.js"
   ]
 }
