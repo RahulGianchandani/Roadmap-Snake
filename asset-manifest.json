@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snake-roadmap/static/css/main.efc9e0ae.css",
+    "main.js": "/snake-roadmap/static/js/main.882899e6.js",
+    "static/js/787.7b605995.chunk.js": "/snake-roadmap/static/js/787.7b605995.chunk.js",
+    "index.html": "/snake-roadmap/index.html",
+    "main.efc9e0ae.css.map": "/snake-roadmap/static/css/main.efc9e0ae.css.map",
+    "main.882899e6.js.map": "/snake-roadmap/static/js/main.882899e6.js.map",
+    "787.7b605995.chunk.js.map": "/snake-roadmap/static/js/787.7b605995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc9e0ae.css",
+    "static/js/main.882899e6.js"
+  ]
+}
