@@ -1,0 +1,62 @@
+import React from 'react';
+
+const InProgressIcon = () => {
+  return (
+    <svg width="102" height="103" viewBox="0 0 128 127" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3" filter="url(#filter0_d_4764_12756)">
+<ellipse cx="66.6406" cy="63.8799" rx="43" ry="43.0002" fill="white"/>
+</g>
+<g opacity="0.3" filter="url(#filter1_d_4764_12756)">
+<ellipse cx="66.6797" cy="63.8793" rx="34.5" ry="34.5006" fill="white"/>
+</g>
+<g filter="url(#filter2_d_4764_12756)">
+<circle cx="66.6797" cy="63.8793" r="24" fill="url(#paint0_radial_4764_12756)"/>
+<circle cx="66.6797" cy="63.8793" r="24.5" stroke="url(#paint1_linear_4764_12756)"/>
+</g>
+<defs>
+<filter id="filter0_d_4764_12756" x="9.64062" y="6.8797" width="114" height="114" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="color-burn" in2="BackgroundImageFix" result="effect1_dropShadow_4764_12756"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4764_12756" result="shape"/>
+</filter>
+<filter id="filter1_d_4764_12756" x="18.1797" y="15.3787" width="97" height="97.0012" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="color-burn" in2="BackgroundImageFix" result="effect1_dropShadow_4764_12756"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4764_12756" result="shape"/>
+</filter>
+<filter id="filter2_d_4764_12756" x="27.6797" y="24.8793" width="78" height="78" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="color-burn" in2="BackgroundImageFix" result="effect1_dropShadow_4764_12756"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4764_12756" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_4764_12756" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(66.6797 39.8793) rotate(90) scale(48)">
+<stop stop-color="#9980FF"/>
+<stop offset="0.606101" stop-color="#7458FF"/>
+<stop offset="1" stop-color="#624BFF"/>
+</radialGradient>
+<linearGradient id="paint1_linear_4764_12756" x1="66.6797" y1="39.8793" x2="66.6797" y2="87.8793" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A792FF"/>
+<stop offset="1" stop-color="#5235FE"/>
+</linearGradient>
+</defs>
+</svg>
+
+  )
+}
+
+export default InProgressIcon;
